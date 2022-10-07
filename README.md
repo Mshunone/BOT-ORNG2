@@ -15,8 +15,8 @@
 
 | BuildPack | LINK |
 |--------|--------|
-| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
+| https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+| https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 
 ## TERMUX USER
 ```bash
