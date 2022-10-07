@@ -2,16 +2,16 @@
 /*
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
+𝐀𝐮𝐭𝐡𝐨𝐫 : SaxiaBotz
+𝐖𝐚 : 083805685278
 𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
-𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
+𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 7 Oktober 2022
 
 ⫹❰⫺ 𝐵𝐼𝐺 𝑇𝐻𝐴𝑁𝐾𝑆 𝑇𝑂 ⫹❱⫺
-⭝ 𝑨𝒍𝒍𝒂𝒉 𝒀𝒂𝒏𝒈 𝑴𝒂𝒉𝒂 𝑬𝒔𝒂
-⭝ 𝑶𝒓𝒂𝒏𝒈 𝑻𝒖𝒂
-⭝ 𝑻𝒆𝒎𝒆𝒏 𝑮𝒘
-⭝ 𝑴𝒂𝒔𝒕𝒂𝒉 𝑴𝒂𝒔𝒕𝒂𝒉
+⭝ Allah
+⭝ Orang Tua
+⭝ SaxiaBotz
+⭝ Penyedia Apikey
 
 ⫹⫺ 𝑇𝒉𝑒 𝑁𝑎𝑚𝑒 𝑇𝒉𝑎𝑡 𝐻𝑒𝑙𝑝𝑒𝑑 𝑀𝑒 ⫹⫺
 ⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔
@@ -19,21 +19,6 @@
 ⭝ 𝑵𝒂𝒓𝒖𝒕𝒐𝒎𝒐
 ⭝ 𝑹𝒊𝒔𝒎𝒂𝑩𝒐𝒕𝒛 𝑶𝒇𝒇𝒄
 ⭝ 𝑱𝒂𝒓𝒐𝒕 𝑶𝒇𝒇𝒄
-⭝ 𝑯𝒚𝒛𝒆𝒓
-⭝ 𝑫𝒆𝒇𝒇𝒓𝒊
-⭝ 𝑲𝒂𝒏𝒏𝒂𝑪𝒉𝒂𝒏
-⭝ 𝑪𝒉𝒓𝒊𝒔𝒕𝒊𝒂𝒏 𝑰𝒅
-⭝ 𝑨𝒊𝒏𝒆
-⭝ 𝑨𝒓𝒊𝒇𝒇𝒃
-⭝ 𝑰𝒍𝒎𝒂𝒏
-⭝ 𝑨𝒎𝒊𝒓𝒖𝒍
-⭝ 𝑰𝒔𝒕𝒊𝒌𝒎𝒂𝒍
-⭝ 𝑭𝒛𝒐𝒏𝒆
-⭝ 𝑭𝒂𝑱𝒂𝒓
-⭝ 𝑨𝒓𝒖𝒍𝒍 𝑶𝒇𝒄
-⭝ 𝒁𝒆𝒆𝒐𝒏𝒆 𝑶𝒇𝒄
-⭝ 𝑹𝒂𝒎𝒍𝑎𝑛
-⭝ 𝑮𝒆𝒎𝒑𝒚𝒓𝑻𝒐𝒏
 let nowner1 = `${nomorown1.split`@`[0]}@s.whatsapp.net`
   let nowner2 = `${nomorown2.split`@`[0]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
@@ -80,58 +65,58 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285380166282', 'Kahfi-XD', true],
-['6285380166282', 'Bot-KAHFI-XD', true]
+['6282110711736', 'Kasan', true],
+['6282110711736', 'Bot-Kasan', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.nomorown1 = '6285380166282'
-global.nomorown2 = '6285380166282'
+global.nomorbot = '6285641142178'
+global.nomorown = '6282110711736'
+global.nomorown1 = '6282110711736'
+global.nomorown2 = '6282110711736'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 X 𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
-global.namebot = '​ 𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.author = 'SanzBotz X Kasan-OWN'
+global.namebot = '​SanzBotz'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 SanzBotz'
 global.media = 'https://telegra.ph/file/164709f787e0305472579.jpg'
-global.wm = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
+global.wm = 'SanzBotz'
 global.watermark = wm
-global.wm2 = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 '
+global.wm2 = 'SanzBotz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 𝐗 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿`
-global.stickpack = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 𝐗 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
-global.stickauth = `© 𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 MD`
+global.titlebot = `SanzBotz X Kasan-OWN`
+global.stickpack = 'SanzBotz X Kasan-OWN'
+global.stickauth = `© SanzBotz MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
-global.nameown2 = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
+global.nameown1= '𝙆asan-OWN'
+global.nameown2 = '𝙆asan-OWN'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
-global.lynk = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.lynk = 'https://chat.whatsapp.com/BewRE0CehALANk9dbjBAWt'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/maxxy_ofc'
-global.sgh = 'https://github.com/Maxxy Botz' //github
-global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt' //group whatsapp
+global.sig = 'https://instagram.com'
+global.sgh = 'https://github.com' //github
+global.sgc = 'https://chat.whatsapp.com/BewRE0CehALANk9dbjBAWt' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+global.snh = 'https://youtube.com'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085380166282'
-global.povo = '-'
+global.pdana = '--'
+global.povo = '--'
 global.pgopay = ''
 global.plinkaja = '-' //link aja
-global.ppulsa = '085380166282'
-global.ppulsa2 = '085295374964'
-global.psaweria = 'https://saweria.co/MaxxyBotz'
+global.ppulsa = '--'
+global.ppulsa2 = '--'
+global.psaweria = '--'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -152,7 +137,7 @@ global.cmenut = '❏––––––『' //top
 global.cmenuh = '』––––––' //header
 global.cmenub = '┊✦ ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
-global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     '
+global.cmenua = '\n ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ \n     '
 global.pmenus = '✦'
 global.htki = '––––––『' // Hiasan Titile (KIRI)
 global.htka = '』––––––' // Hiasan Title  (KANAN)
